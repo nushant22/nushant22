@@ -36,17 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Nushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nushant22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nushant22&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
