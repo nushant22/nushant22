@@ -39,19 +39,19 @@
 
 ## 🚀 Featured Projects
 
-### ⚡ [FastAPI-Practice](https://github.com/nushant22/FastAPI-REST-APIs)
+### ⚡ [FastAPI-REST-APIs](https://github.com/nushant22/FastAPI-REST-APIs)
 Modern REST API development with FastAPI showcasing authentication, database integration, and production-ready features.  
 **Tech**: FastAPI · PostgreSQL · JWT · SQLAlchemy
 
-### 📊 [SQL-Projects](https://github.com/nushant22/SQL-Analytics-Portfolio)
+### 📊 [SQL-Analytics-Portfolio](https://github.com/nushant22/SQL-Analytics-Portfolio)
 Comprehensive SQL portfolio demonstrating complex queries, database design, and business analytics.  
 **Tech**: MySQL · PostgreSQL · Data Analysis
 
-### 🐍 [Python_Projects](https://github.com/nushant22/Python-Portfolio)
+### 🐍 [Python-Portfolio](https://github.com/nushant22/Python-Portfolio)
 Collection of Python projects covering algorithms, data structures, and practical applications.  
 **Tech**: Python · Object-Oriented Programming · Problem Solving
 
-### 📝 [Project-Note](https://github.com/nushant22/Project-Note)
+### 📝 [QuickNote-App](https://https://github.com/nushant22/QuickNote-App)
 Clean, responsive note-taking web app built with vanilla JavaScript and local storage using FastAPI framework.  
 **Tech**: HTML5 · CSS3 · JavaScript · FastAPI · Responsive Design
 
