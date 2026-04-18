@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nushant Ghimire
 
-### Backend Developer | Python Enthusiast | Data Science Learner
+### Backend Developer | AI Learner
 
 🌍 Based in Kathmandu, Nepal  
 💼 Building projects to solve real-world problems  
